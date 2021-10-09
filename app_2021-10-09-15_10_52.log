@@ -1,0 +1,12 @@
+2021-Oct-09 15:11:18 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - initialized chrome
+2021-Oct-09 15:11:18 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - initialized chrome
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Maximized windows
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - delete all cookies
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Maximized windows
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - delete all cookies
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 15:11:19 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 15:11:50 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 15:11:50 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken

@@ -1,0 +1,22 @@
+2021-Oct-09 17:11:18 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - initialized chrome
+2021-Oct-09 17:11:18 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - initialized chrome
+2021-Oct-09 17:11:18 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Maximized windows
+2021-Oct-09 17:11:18 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Maximized windows
+2021-Oct-09 17:11:20 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - delete all cookies
+2021-Oct-09 17:11:20 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:20 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:21 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - delete all cookies
+2021-Oct-09 17:11:22 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:24 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - navigate to the url
+2021-Oct-09 17:11:24 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:25 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:26 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:28 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - navigate to the url
+2021-Oct-09 17:11:29 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:29 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:30 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - enter emailshr2225@gmail.com
+2021-Oct-09 17:11:30 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - enter passwordNaviMumbai@123
+2021-Oct-09 17:11:30 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:35 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:11:35 PM [TestNG-PoolService-1] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
+2021-Oct-09 17:12:01 PM [TestNG-PoolService-0] DEBUG stepdefination.StepDef - Each step hook is executed,screen shots taken
